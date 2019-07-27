@@ -1,2 +1,4 @@
 GensimVectors/*
 .ipynb_checkpoints/*
+dataProcessed.csv
+testProcessed.csv
